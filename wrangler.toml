@@ -1,4 +1,4 @@
-name = "my-egx-auth-app"
+name = "rust-health-worker"
 main = "index.js"
 compatibility_date = "2025-07-27"
 kv_namespaces = [
